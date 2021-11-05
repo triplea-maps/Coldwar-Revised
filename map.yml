@@ -1,0 +1,5 @@
+map_name: Coldwar-Revised
+games:
+- game_name: ColdWar-Revised
+  file_name: Coldwar-Revised.xml
+version: 0
